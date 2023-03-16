@@ -1,0 +1,48 @@
+Example 1:
+Input:
+2
+3 1 3 2
+4 1 2 1 4
+
+
+Example1 Output:
+Case 1
+Max profit: 4
+Order: [1 3 2]
+
+Case 2
+Max profit: 8
+Order: [1 2 1 4]
+
+
+Example 2:
+Input:
+3
+5 3 1 4 3 2
+4 4 4 4 4
+3 1 2 3
+
+
+Example 2 Output:
+Case 1
+Max profit: 7
+Order: [1 4 3 3 2]
+
+Case 2
+Max profit: 12
+Order: [4 4 4 4]
+
+Case 3
+Max profit: 4
+Order: [1 2 3]
+
+
+Example 3:
+Input:
+1
+6 1 2 3 2 1 3
+
+Example Output3:
+Case 1
+Max profit: 9
+Order: [1 2 3 2 1 3]
